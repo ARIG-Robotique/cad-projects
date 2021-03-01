@@ -70,7 +70,7 @@ const run = async () => {
   bar.start(files.length - 1, 0, { speed: "N/A" });
   files.forEach((file, idx) => {
     try {
-        execSync(`git lfs ${COMMAND} ${file}`);
+        execSync(`git lfs ${COMMAND} "${file}"`);
     } catch (error) {
       // NOP
     }
@@ -82,9 +82,9 @@ const run = async () => {
 };
 
 const gitfiles = (dirName) => {
-  const cmd = `git lfs ls-files | grep ${dirName}/ | cut -d ' ' -f3`;
+  const cmd = `git lfs ls-files | grep ${dirName}/ | cut -d '*' -f2`;
   const out = execSync(cmd).toString();
-  return out.split("\n");
+  return out.split("\n").map(f => f.trim());
 }
 
 run();

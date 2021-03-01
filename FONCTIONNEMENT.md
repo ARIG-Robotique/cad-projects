@@ -23,5 +23,5 @@ Afin de poser des verrous de modifications l'usage du CLI intégré est nécessa
 
 ```bash
 $> yarn install
-$> node cli.js
+$> yarn start
 ```

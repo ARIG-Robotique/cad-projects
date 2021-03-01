@@ -7,6 +7,7 @@
   "author": "Gregory DEPUILLE <gregory.depuille@gmail.com>",
   "license": "MIT",
   "scripts": {
+	"start": "node ./cli.js",
     "toc": "markdown-toc -i README.md && markdown-toc -i FONCTIONNEMENT.md"
   },
   "devDependencies": {

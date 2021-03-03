@@ -5,7 +5,7 @@
 <!-- toc -->
 
 - [GIT LFS](#git-lfs)
-- [Lock d'une arborescence](#lock-dune-arborescence)
+- [Usage du CLI](#usage-du-cli)
 
 <!-- tocstop -->
 

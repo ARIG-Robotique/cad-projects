@@ -26,7 +26,7 @@ const askQuestions = () => {
       name: "DIRNAME",
       type: "list",
       message: "What is the name of the directory ?",
-      choices: ["eurobot_2019", "eurobot_2020", "eurobot_2021", "vision_balise", "vision_central"],
+      choices: ["nerell_2021", "elfa_2021", "eurobot_2019", "eurobot_2020", "eurobot_2021", "vision_balise", "vision_central"],
       when: (answers) => {
         if (answers.COMMAND == "show") {
           return false;

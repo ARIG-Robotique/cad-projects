@@ -1,6 +1,13 @@
 *.png filter=lfs diff=lfs merge=lfs -text
+*.dldasm filter=lfs diff=lfs merge=lfs -text
 *.SLDASM filter=lfs diff=lfs merge=lfs -text
 *.SLDPRT filter=lfs diff=lfs merge=lfs -text
+*.sldprt filter=lfs diff=lfs merge=lfs -text
 *.SLDDRW filter=lfs diff=lfs merge=lfs -text
+*.slddrw filter=lfs diff=lfs merge=lfs -text
+*.stp filter=lfs diff=lfs merge=lfs -text
+*.STEP filter=lfs diff=lfs merge=lfs -text
+*.igs filter=lfs diff=lfs merge=lfs -text
+*.IGS filter=lfs diff=lfs merge=lfs -text
 *.pdf filter=lfs diff=lfs merge=lfs -text
 *.PDF filter=lfs diff=lfs merge=lfs -text

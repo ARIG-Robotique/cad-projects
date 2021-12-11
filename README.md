@@ -15,7 +15,7 @@ Ce repository contient nos différents projets SolidWorks réalisés.
 
 [PDF 3D](assets/2021_odin.PDF)
 
-![![](assets/2021_odin.png)](2021_odin)
+[![](assets/2021_odin.png)](2021_odin)
 
 ### Phare (version 2020)
 

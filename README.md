@@ -5,6 +5,11 @@ Ce repository contient nos différents projets SolidWorks réalisés.
 
 ## Eurobot 2022 (Age of Bots)
 
+### Robots
+
+[![](assets/2022_robots.png)](2022_robots)
+
+
 ### Statuette
 
 [![](assets/2022_statuette.png)](2022_robots)

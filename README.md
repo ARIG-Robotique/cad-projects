@@ -2,6 +2,9 @@
 
 Ce repository contient nos différents projets SolidWorks réalisés.
 
+> Afin de versionner les fichiers binaires lié à notre logiciel de mécanique (SolidWorks),
+nous utilisons GIT LFS.
+
 ## Eurobot 2024 (Farming Mars)
 
 ### Robot

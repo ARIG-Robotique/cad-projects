@@ -2,6 +2,22 @@
 
 Ce repository contient nos différents projets SolidWorks réalisés.
 
+## Eurobot 2024 (Farming Mars)
+
+### Robot
+
+[![](assets/2024_robot.png)(2024_robot)
+
+[![](assets/2024_bras.png)(2024_bras)
+
+### PAMI
+
+[![](assets/2024_pami.png)(2024_pami)
+
+### Dispositif de calcul / vision
+
+[![](assets/2024_vision.png)(2024_vision)
+
 
 ## Eurobot 2022 (Age of Bots)
 

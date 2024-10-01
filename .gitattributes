@@ -6,8 +6,14 @@
 *.SLDDRW filter=lfs diff=lfs merge=lfs -text
 *.slddrw filter=lfs diff=lfs merge=lfs -text
 *.stp filter=lfs diff=lfs merge=lfs -text
+*.STP filter=lfs diff=lfs merge=lfs -text
 *.STEP filter=lfs diff=lfs merge=lfs -text
+*.step filter=lfs diff=lfs merge=lfs -text
 *.igs filter=lfs diff=lfs merge=lfs -text
 *.IGS filter=lfs diff=lfs merge=lfs -text
+*.iges filter=lfs diff=lfs merge=lfs -text
+*.IGES filter=lfs diff=lfs merge=lfs -text
 *.pdf filter=lfs diff=lfs merge=lfs -text
 *.PDF filter=lfs diff=lfs merge=lfs -text
+*.dxf filter=lfs diff=lfs merge=lfs -text
+*.DXF filter=lfs diff=lfs merge=lfs -text
